@@ -1,0 +1,5 @@
+package Two;
+
+public enum Days {
+    MONDAY,TUESDAY,WENSDAY,TURSDAY,FRIDAY,SATURDAY,SUNDAY
+}
